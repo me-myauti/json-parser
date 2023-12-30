@@ -1,0 +1,45 @@
+{
+    "_id": "658f7383947cb7ccae8f8082",
+    "index": 6,
+    "guid": "fa7a1265-a579-45ff-82e6-445dcd95deba",
+    "isActive": true,
+    "balance": "$1,885.09",
+    "picture": "http://placehold.it/32x32",
+    "age": 23,
+    "eyeColor": "green",
+    "name": "Marcella Wilder",
+    "gender": "female",
+    "company": "ETERNIS",
+    "email": "marcellawilder@eternis.com",
+    "phone": "+1 (810) 485-2136",
+    "address": "223 Dorset Street, Imperial, Washington, 6625",
+    "about": "Non dolor velit sit culpa est sit laboris anim commodo non esse. Enim magna minim ea laborum sit non reprehenderit consectetur nisi enim incididunt. Do dolore exercitation aute tempor dolor et do. Non amet anim elit adipisicing dolore dolor ipsum.\r\n",
+    "registered": "2020-10-15T05:57:40 +04:00",
+    "latitude": 45.589355,
+    "longitude": -17.207712,
+    "tags": [
+      "laborum",
+      "laborum",
+      "enim",
+      "magna",
+      "exercitation",
+      "ex",
+      "sint"
+    ],
+    "friends": [
+      {
+        "id": 0,
+        "name": "Kerr Sargent"
+      },
+      {
+        "id": 1,
+        "name": "Keisha Douglas"
+      },
+      {
+        "id": 2,
+        "name": "Briggs Freeman"
+      }
+    ],
+    "greeting": "Hello, Marcella Wilder! You have 8 unread messages.",
+    "favoriteFruit": "strawberry"
+  }
